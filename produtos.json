@@ -1,26 +1,8 @@
-[  
-  {
-    "name": "Echo Dot",
-    "price": 300.00,
-    "id": 1,
-    "description": "Echo Dot (4ª Geração): Smart Speaker com Alexa - Cor Azul"
-  },
-  {
-    "name": "Kindle",
-    "price": 369.70,
-    "id": 2,
-    "description": "Kindle 10a. geração com bateria de longa duração - Cor Preta"
-  },
+[
   {
     "name": "Echo Show",
     "price": 597.55,
     "id": 3,
     "description": "Echo Show 8 (1ª Geração): Smart Speaker com tela de 8 polegadas e Alexa - Cor Branca"
-  },
-  {
-    "name": "Tv 43 polegadas Multilaser",
-    "price": 1700.43,
-    "id": 4,
-    "description": "Tela 43 Polegadas Full HD Sem Conversor Digital Multilaser HDMI+USB - TL023"
   }
 ]
